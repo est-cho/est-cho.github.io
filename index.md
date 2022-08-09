@@ -6,7 +6,7 @@ Korea Advanced Institute of Science and Technology (KAIST)
 
 ### Research Interests
 
-System-of-Systems (SoS), Cyber-Physical System (CPS), Uncertainty, Safety-Critical System, Software ReliabilitySystem-of-systems, cyber-physical system, uncertainty
+System-of-Systems (SoS), Cyber-Physical System (CPS), Uncertainty, Safety-Critical System, Software Reliability
 
 ### Papers
 

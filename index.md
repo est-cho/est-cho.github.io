@@ -1,11 +1,12 @@
 ## Esther Cho
 
 Masters Student, Software Engineering Lab  
-School of Computing at KAIST
+School of Computing  
+Korea Advanced Institute of Science and Technology (KAIST)
 
 ### Research Interests
 
-System-of-systems, cyber-physical system, uncertainty
+System-of-Systems (SoS), Cyber-Physical System (CPS), Uncertainty, Safety-Critical System, Software ReliabilitySystem-of-systems, cyber-physical system, uncertainty
 
 ### Papers
 
